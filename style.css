@@ -91,7 +91,12 @@ body {
 h2 {
   text-align: center;
 }
-.imgabout {
+.imgaboutcewe {
+  width: 180px;
+  height: 242px;
+}
+
+.imgaboutcowo {
   width: 180px;
   height: 242px;
 }
